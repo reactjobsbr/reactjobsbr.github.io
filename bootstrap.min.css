@@ -11,7 +11,7 @@
 .jumbotron {
   background-image: url("/background.png");
   background-size: cover;
-  background-position: center center
+  background-position: center center;
 }
 .btn-anuncie{
   color: white;
@@ -36,4 +36,7 @@
 .label-info {
   background-color: #0093AE;
   text-transform: uppercase;
+}
+.anuncio .label-info{
+  float: right;
 }
